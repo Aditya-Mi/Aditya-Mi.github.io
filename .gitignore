@@ -1,3 +1,1 @@
-canvaskit/canvaskit.wasm
-canvaskit/skwasm.wasm
-canvaskit/chromium/canvaskit.wasm
+*.wasm
